@@ -27,7 +27,7 @@ Once the application is connected to the server, the user will be able to get, c
 
 * Walkthrough video:
 
- https://drive.google.com/file/d/1RP4vn-yl_hTe5fp0Bq1Bu7BDmgpR1dJM/view
+  https://drive.google.com/file/d/1RP4vn-yl_hTe5fp0Bq1Bu7BDmgpR1dJM/view
 
 * The URL of the GitHub repository:
 
